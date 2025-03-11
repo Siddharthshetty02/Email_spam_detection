@@ -140,6 +140,4 @@ For questions or feedback, feel free to reach out:
 
 Enjoy using the **Email Spam Detection by AI** project! 🚀
 
---- 
 
-Let me know if you need further assistance! 😊
