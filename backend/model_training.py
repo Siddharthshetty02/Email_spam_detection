@@ -6,8 +6,7 @@ from sklearn.pipeline import make_pipeline
 from sklearn.metrics import accuracy_score, classification_report
 
 # Load the dataset
-df = pd.read_csv("datasets/spam.csv", encoding="latin-1")
-
+df = pd.read_csv("datasets/spam_email_large.csv", encoding="latin-1")
 # Print column names and first few rows
 print("Columns in the dataset:", df.columns.tolist())
 print(df.head())
