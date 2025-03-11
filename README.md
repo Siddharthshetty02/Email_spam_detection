@@ -138,7 +138,7 @@ For questions or feedback, feel free to reach out:
 
 ---
 
-#Author and Developer
-- SIDDHARTH RAGHUNATHA SHETTY
+## **Author and Developer**
+- *SIDDHARTH RAGHUNATHA SHETTY*
 
 
