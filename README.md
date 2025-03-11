@@ -138,6 +138,7 @@ For questions or feedback, feel free to reach out:
 
 ---
 
-Enjoy using the **Email Spam Detection by AI** project! 🚀
+#Author and Developer
+- SIDDHARTH RAGHUNATHA SHETTY
 
 
