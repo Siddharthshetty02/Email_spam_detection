@@ -123,16 +123,11 @@ Contributions are welcome! If you'd like to contribute:
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Contact**
 For questions or feedback, feel free to reach out:
-- **GitHub**: [Your GitHub Profile](#) *(Replace with your actual GitHub link)*
-- **LinkedIn**: [Your LinkedIn Profile](#) *(Replace with your actual LinkedIn link)*
-- **Email**: your.email@example.com *(Replace with your actual email)*
+- **GitHub**: https://github.com/Siddharthshetty02
+- **LinkedIn**: www.linkedin.com/in/siddharth-shetty-657797283
+- **Email**: siddharthshetty2032005@gmail.com
 
 ---
 
