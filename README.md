@@ -38,13 +38,13 @@ spam-mail-detection/
 │   ├── spam_detection_model.pkl # Trained model file
 │   └── requirements.txt        # Python dependencies
 ├── frontend/
-│   ├── index.html              # Frontend HTML file
+│   ├── index.html              # Frontend HTML file(can integrate both CSS & JS in HTML)
 │   ├── styles.css              # Custom CSS (optional)
-│   └── script.js               # JavaScript for API calls
+│   └── script.js               # JavaScript for API calls(if needed)
 ├── datasets/
 │   └── email.csv               # Dataset for training
 ├── README.md                   # Project documentation
-└── .gitignore                  # Files/folders to ignore in Git
+
 ```
 
 ---
